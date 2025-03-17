@@ -4,7 +4,7 @@
     <img alt="Microchip Logo." src="images/microchip_logo_black_red.png">
 </picture> 
 
-## %repoDescritpion%
+## mchv230vac1.5kw 33ak128mc106 pmsm foc pll pfc
 
 Board Image if any.
 
