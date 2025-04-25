@@ -4,7 +4,7 @@
    "content":{
       "metaDataVersion":"1.3.0",
       "name":"com.microchip.mplabx.project.mchv230vac1.5kw-33ak128mc106-pmsm-foc-pll-pfc",
-      "version":"1.0.0",
+      "version":"1.0.1",
       "displayName":"Sensorless FOC of PMSM using PLL estimator integrated with Power Factor Correction: MCHV-230VAC-1.5kW and dsPIC33AK128MC106 MC DIM",
       "projectName":"mchv230vac1.5kw-33ak128mc106-pmsm-foc-pll-pfc",
       "shortDescription":"Integrated Power Factor Correction and Sensorless FOC of PMSM using PLL estimator. Extended speed operation using voltage constraint-based field weakening algorithm.",
