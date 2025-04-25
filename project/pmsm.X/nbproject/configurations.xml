@@ -36,7 +36,6 @@
       </logicalFolder>
       <logicalFolder name="motor" displayName="motor" projectFiles="true">
         <itemPath>../motor/leadshine400.h</itemPath>
-        <itemPath>../motor/aircon_compressor.h</itemPath>
       </logicalFolder>
       <logicalFolder name="f1" displayName="pfc" projectFiles="true">
         <itemPath>../pfc/pfc.h</itemPath>
